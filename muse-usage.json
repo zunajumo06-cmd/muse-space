@@ -1,11 +1,11 @@
 {
-  "used_percent": 30,
-  "remaining_percent": 70,
+  "used_percent": 31,
+  "remaining_percent": 69,
   "reset_at": "2026-11-12T13:28:00+08:00",
   "reset_at_text": "11月12日 13:28",
   "days_left": 3,
   "additional_tokens_used_percent": 0,
   "additional_tokens_left_b": 28,
   "plan": "免费",
-  "updated_at": "2026-11-09T16:04:11+08:00"
+  "updated_at": "2026-11-09T16:19:34+08:00"
 }
